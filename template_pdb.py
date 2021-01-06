@@ -17,7 +17,6 @@ import math
 import argparse
 from pypovray import pypovray, pdb, load_config, models, logger
 from vapory import Scene, LightSource
-
 # This program uses globals as the `scene` function requires them at each step
 ETHANOL = VIAGRA = BENZENE = RAD_PER_SCENE = FRONT_LIGHT = None
 

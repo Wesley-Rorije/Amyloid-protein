@@ -27,6 +27,7 @@ default_sphere_model = Texture(Pigment('color', [0.9, 0.05, 0.05], 'filter', 0.7
 text_model           = Texture(Pigment('color', 'Gold'),
                                Finish('phong', 0.6, 'reflection', 0.4))
 
+
 # Static atom definitions
 # See the 'color.inc' povray file for more color examples and names.
 atom_colors = {
