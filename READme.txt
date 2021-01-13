@@ -1,5 +1,5 @@
 J.A. Busker & W.A Rorije
-4 Januari 2021
+13 Januari 2021
 Version 1.0
 
 Ophoping amyloid bij Alzheimer.
@@ -17,7 +17,7 @@ See the link for an installation guide.
 https://nbviewer.jupyter.org/urls/bitbucket.org/mkempenaar/pypovray/raw/master/manual/install_and_configure.ipynb
 To use the program in windows you need to open the terminal and go the folder of the .py file with cd.
 And type in the .py you want to run. (e.g., ‘template_animation.py’ in the terminal) 
-And if the consoleasks you to overwrite the file type agree with pressing 'y' button.
+And if the console asks you to overwrite the file type agree with pressing 'y' button.
 
 
 
