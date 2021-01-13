@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 """
-Template for the final movie design
+With this script you can make a movie
+about signal transmission and Alzheimer
 """
 
 __author__ = 'J.A. Busker W.A. Rorije'
