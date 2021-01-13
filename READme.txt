@@ -1,4 +1,4 @@
-﻿J.A. Busker & W.A Rorije
+J.A. Busker & W.A Rorije
 4 Januari 2021
 Version 1.0
 
@@ -9,7 +9,7 @@ A report about the subject. If you want to know more about the subject. Go to th
 Two Python scripts. Template_animation.py and shapes.py. The axon and dendrite shapes are imported from the shapes.py file. All the moving objects are calculated and done by template_animation.py.
 Default.ini. You need to replace the default.ini with attached default.ini file in project directory.
 Simulation.py. This is the final result of this project.
-1IYT.pdb. https://www.rcsb.org/structure/1iyt.
+beta4.pdb. https://www.rcsb.org/structure/1iyt. (Changed the name from 1iyt to beta4).
 
 To run these Python scripts you need to install programs and download a few modules.
 See the link for an installation guide. 
