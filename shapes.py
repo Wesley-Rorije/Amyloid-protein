@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
 """
-Template for the final movie design
+With this script you return 
+the axon and dendrite on the background
+and other important settings
 """
 
 __author__ = 'J.A. Busker W.a. Rorije'
